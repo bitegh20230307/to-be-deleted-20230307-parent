@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/bitegh20230307/to-be-deleted-20230307-child.git
